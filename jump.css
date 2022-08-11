@@ -6,3 +6,12 @@ body{
 	text-transform: capitalize;
 
 }
+
+a{
+	text-transform: none;
+	text-decoration: none;
+}
+a:visited{
+	color: grey;
+
+}
