@@ -4,6 +4,8 @@ body{
 	font-family: monospace;
 	margin: 30px;
 	text-transform: capitalize;
+	padding: 70px;
+
 
 }
 
@@ -13,5 +15,14 @@ a{
 }
 a:visited{
 	color: grey;
+
+}
+
+.sevennine{
+	
+
+}
+h3{
+	padding-left: 600px;
 
 }
